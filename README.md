@@ -177,4 +177,4 @@ The following tools and libraries were used in this project:
 
 **Hitkarsh Agrawal**
 
-GitHub: [hitkarshagrawalb-](https://github.com/hitkarshagrawalb-jpg)
+GitHub: [hitkarshagrawalb-jpg](https://github.com/hitkarshagrawalb-jpg)
